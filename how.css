@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;500;700;900&display=swap");
+
+:root {
+  --Roboto: "Roboto", sans-serif;
+  --Quicksand: "Quicksand", sans-serif;
+  --PlayfairDisplay: "Playfair Display", serif;
+}
+header {
+  display: inline-block;
+}
+.header-main {
+  text-align: center;
+  width: 734px;
+  margin: 60px auto 0;
+  font-size: 3rem;
+  padding: 60px 0 203px;
+}
